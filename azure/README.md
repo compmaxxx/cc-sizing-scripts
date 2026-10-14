@@ -36,7 +36,7 @@ Azure Cloud Shell already has `python3`, `jq`, `az`, and `git` prepared, which m
 1. Launch **Azure Cloud Shell** and select **Bash** as the shell
 1. Clone this repository and change into the Azure directory:
    ```bash
-   git clone https://github.com/chiangyaw/cc-sizing-scripts.git
+   git clone https://github.com/compmaxxx/cc-sizing-scripts.git
    cd cc-sizing-scripts/azure
    ```
 1. Run the sizing script (see options below)
