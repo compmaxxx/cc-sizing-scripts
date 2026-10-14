@@ -91,7 +91,7 @@ Steps:
 1. Start a Cloud Shell session from the AWS UI **in the management account**
 2. Clone the repository and change into the AWS directory:
    ```bash
-   git clone https://github.com/chiangyaw/cc-sizing-scripts.git
+   git clone https://github.com/compmaxxx/cc-sizing-scripts.git
    cd cc-sizing-scripts/aws
    chmod +x resource-count-aws.sh
    ```
