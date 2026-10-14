@@ -63,7 +63,7 @@ AWS Cloud Shell already has the AWS CLI, your credentials, `git`, and `jq` prepa
 1. Start a Cloud Shell session from the AWS UI
 2. Clone this repository:
    ```bash
-   git clone https://github.com/chiangyaw/cc-sizing-scripts.git
+   git clone https://github.com/compmaxxx/cc-sizing-scripts.git
    ```
 3. Change into the AWS directory:
    ```bash
